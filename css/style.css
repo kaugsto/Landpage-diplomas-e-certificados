@@ -1,0 +1,37 @@
+*{
+    margin: 2px;
+
+}
+
+nav{
+    width: auto;
+    padding: 75px; /* margin interna*/
+    background-color: lightblue;
+    border: 1px solid black;
+    
+}
+h1{
+    text-align: center;
+    font-style:italic verdana;
+    font-size: 45px;
+    color: darkblue;
+    
+}
+.bodyinicial{
+    padding: 20px 0px 0px 0px;
+}
+.body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: auto;
+    height: 850px;
+    justify-content: space-between;
+    padding: 20px 0px 0px 0px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black; 
+}

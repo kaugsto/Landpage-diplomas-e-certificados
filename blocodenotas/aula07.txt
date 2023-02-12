@@ -1,0 +1,4 @@
+Nesta aula tivemos um desafio. Qual foi a ideia? 
+Desenvolver um projeto/site simulando a galeria de alguns produtos, com uma
+uma foto principal e fotos em miniaturas abaixo.
+Além disso, ao clicar nas fotos em miniatura a foto era mostrada de forma grande.
